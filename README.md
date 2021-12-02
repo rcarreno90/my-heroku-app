@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Express.js + JWT + Sequelize + MariaDB
 
 Example of a RESTful API with JWT authentication using MariaDB as database and Sequelize as ORM.
@@ -21,3 +22,6 @@ npx sequelize-cli db:migrate
 ```sh
 npx sequelize-cli db:seed:all
 ```
+=======
+# my-heroku-app
+>>>>>>> c240cfbeb6297126c8fc011d3134c5ba23454fb6
